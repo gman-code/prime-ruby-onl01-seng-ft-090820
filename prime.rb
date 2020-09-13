@@ -1,10 +1,3 @@
-def prime?(n)
-  
-  
-  
-end
-
-
 
 
 def prime?(n)
